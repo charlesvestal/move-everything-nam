@@ -1,10 +1,10 @@
-# Move Anything NAM
+# Move Everything NAM
 
-Neural Amp Modeler audio effect module for Move Anything, based on [NeuralAudio](https://github.com/mikeoliphant/NeuralAudio) by Mike Oliphant and [NeuralAmpModelerCore](https://github.com/sdatkinson/NeuralAmpModelerCore) by Steven Atkinson.
+Neural Amp Modeler audio effect module for Move Everything, based on [NeuralAudio](https://github.com/mikeoliphant/NeuralAudio) by Mike Oliphant and [NeuralAmpModelerCore](https://github.com/sdatkinson/NeuralAmpModelerCore) by Steven Atkinson.
 
 ## Prerequisites
 
-- [Move Anything](https://github.com/charlesvestal/move-anything) installed on your Ableton Move
+- [Move Everything](https://github.com/charlesvestal/move-anything) installed on your Ableton Move
 
 ## Installation
 
@@ -52,8 +52,15 @@ NAM models can be trained with the [Neural Amp Modeler Trainer](https://github.c
 - **NeuralAudio**: [Mike Oliphant](https://github.com/mikeoliphant/NeuralAudio) (MIT License)
 - **RTNeural**: [Jatin Chowdhury](https://github.com/jatinchowdhury18/RTNeural) (BSD 3-Clause License)
 - **math_approx**: [Jatin Chowdhury](https://github.com/jatinchowdhury18/math_approx) (BSD 3-Clause License)
-- **Move Anything port**: Charles Vestal
+- **Move Everything port**: Charles Vestal
 
 ## License
 
 MIT License - See LICENSE file for details.
+
+## AI Assistance Disclaimer
+
+This module is part of Move Everything and was developed with AI assistance, including Claude, Codex, and other AI assistants.
+
+All architecture, implementation, and release decisions are reviewed by human maintainers.  
+AI-assisted content may still contain errors, so please validate functionality, security, and license compatibility before production use.
