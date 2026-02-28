@@ -137,6 +137,7 @@ echo ""
 echo "--- Packaging ---"
 
 cat src/module.json > dist/nam/module.json
+[ -f src/help.json ] && cat src/help.json > dist/nam/help.json
 cat build/nam.so > dist/nam/nam.so
 chmod +x dist/nam/nam.so
 

@@ -1,0 +1,55 @@
+{
+  "title": "NAM",
+  "children": [
+    {
+      "title": "Overview",
+      "lines": [
+        "Neural Amp Modeler.",
+        "",
+        "Guitar amp and",
+        "effect emulation",
+        "using neural network",
+        "models.",
+        "",
+        "Loads .nam model",
+        "files and optional",
+        ".wav cabinet IRs."
+      ]
+    },
+    {
+      "title": "Setup",
+      "lines": [
+        "Upload .nam model",
+        "files to models/",
+        "and .wav cabinet IRs",
+        "to cabs/ via the ME",
+        "Installer's asset",
+        "copy feature.",
+        "",
+        "Find models at:",
+        "tonehunt.org",
+        "",
+        "Supports folders",
+        "for organization."
+      ]
+    },
+    {
+      "title": "Controls",
+      "lines": [
+        "Knob 1: Input",
+        " Input level to amp",
+        "",
+        "Knob 2: Output",
+        " Output level",
+        "",
+        "Cab Bypass:",
+        " Skip cabinet IR",
+        " (via menu)",
+        "",
+        "Choose Model and",
+        "Choose Cabinet via",
+        "the navigation menu."
+      ]
+    }
+  ]
+}
