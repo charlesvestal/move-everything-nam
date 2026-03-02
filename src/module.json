@@ -2,7 +2,7 @@
   "id": "nam",
   "name": "NAM",
   "abbrev": "NA",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Neural Amp Modeler - neural network guitar amp/effect emulation",
   "author": "NeuralAudio by Mike Oliphant (port: charlesvestal)",
   "license": "MIT",
@@ -93,7 +93,10 @@
       ".ir"
     ],
     "allowFolders": true,
-    "ensure_dirs": ["models", "cabs"],
+    "ensure_dirs": [
+      "models",
+      "cabs"
+    ],
     "description": "Manage NAM models (.nam) and cabinet IRs (.wav)",
     "hint": "Find amp models at",
     "hint_url": "https://tonehunt.org",
